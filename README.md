@@ -1,7 +1,10 @@
-Implement a classification task using DNN and SVM respectively. The dataset is a phoneme classification dataset (all English pronunciations can be roughly divided into 39 phonemes, given different people's pronunciations of these phonemes and then classified into these 39 categories), from an open course at National Taiwan University. Dataset URL https://drive.google.com/uc?id=1HPkcmQmFGu -3OknddKIa5dNDsR05lIQR
+# Classification Tasks Using DNN and SVM
 
-Train_11.npy is unlabeled data.
+Classification tasks were implemented using both Deep Neural Networks (DNN) and Support Vector Machines (SVM) on a phoneme classification dataset from a public course by National Taiwan University. The dataset includes 39 phoneme classes representing different English pronunciations, with corresponding data for classification tasks. The dataset can be accessed at the following URL: [Dataset URL](https://drive.google.com/uc?id=1HPkcmQmFGu-3knddKIa5dNDSR05LIQR)。
 
-Train_1abel_11.npy is the corresponding label.
+## Dataset Description
+- **Train_11.npy**: Unlabeled data.
+- **Train_label_11.npy**: Corresponding labels.
 
-This is an experiment from a course during my master's degree. The report is my experiment report. If it is helpful to you, you can click on the star.
+This work was conducted as part of an experimental project during my master’s studies. The accompanying report documents the experiment. If you find it useful, your support by giving it a star would be greatly appreciated.
+
